@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Agency Landing Page
 
-## Getting Started
+Landing page moderna para uma agência digital desenvolvida com **Next.js, React, TypeScript e TailwindCSS**.
 
-First, run the development server:
+O projeto simula um site institucional completo, contendo seções comuns em aplicações corporativas como apresentação da empresa, serviços, projetos, equipe e formulário de contato.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 🧠 Tecnologias utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- Tabler Icons
+- CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# ✨ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- Alternância entre **Dark Mode e Light Mode**
+- Hero section com destaque da proposta da agência
+- Lista de empresas parceiras
+- Seção de serviços com cards interativos
+- Área de projetos recentes
+- Apresentação da equipe
+- Formulário de contato controlado com React
+- Footer institucional
+- Componentização completa da interface
+- Layout responsivo com TailwindCSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# 🧩 Estrutura de componentes
 
-## Deploy on Vercel
+- Header
+- Main
+- LogosList
+- GridComponents
+- GridWork
+- GridTeam
+- AgencyForm
+- Footer
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 📂 Estrutura do projeto
+
+- page.tsx
+- globals.css
+
+---
+
+# 💡 Conceitos aplicados
+
+- Componentização em React
+- Controle de estado com `useState`
+- Compartilhamento de estado via props
+- Implementação de **Dark Mode dinâmico**
+- Layout responsivo com TailwindCSS
+- Uso de `next/image` para otimização de imagens
+- Organização de layout em aplicações institucionais
+- Estrutura baseada no **App Router do Next.js**
+
+---
+
+# 👨‍💻 Autor
+
+Felipe de Lima Passarelli  
+Desenvolvedor Front-End focado em evolução contínua e boas práticas.
+
+GitHub:  
+https://github.com/Felipe-de-Lima-Passarelli
+
+---
+
+# 📄 Licença
+
+Este projeto está sob a licença MIT.

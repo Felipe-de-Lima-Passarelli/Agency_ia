@@ -81,24 +81,24 @@ const Main = ({ lightMode }: MainProps) => {
           lightMode={lightMode}
         />
         <GridComponents
-          urlImage="advertising"
-          altImage="Advertising Logo"
-          title="Advertising"
-          desc="We turn bold ideas into powerful digital solutions that connect, engage..."
+          urlImage="content_marketing"
+          altImage="Content Marketing Logo"
+          title="Content marketing"
+          desc="We help you execute your plan and deliver results."
           lightMode={lightMode}
         />
         <GridComponents
-          urlImage="advertising"
-          altImage="Advertising Logo"
-          title="Advertising"
-          desc="We turn bold ideas into powerful digital solutions that connect, engage..."
+          urlImage="content_writing"
+          altImage="Content Writing Logo"
+          title="Content writing"
+          desc="We help you create a marketing strategy that drives results."
           lightMode={lightMode}
         />
         <GridComponents
-          urlImage="advertising"
-          altImage="Advertising Logo"
-          title="Advertising"
-          desc="We turn bold ideas into powerful digital solutions that connect, engage..."
+          urlImage="social_media"
+          altImage="Social Media Logo"
+          title="Social media"
+          desc="We help you build a strong social media presence and engage with your audience."
           lightMode={lightMode}
         />
       </div>
